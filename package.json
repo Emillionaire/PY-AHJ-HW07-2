@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emillionaire/ahj-homeworks-http.git"
+    "url": "git+https://github.com/Emillionaire/PY-AHJ-HW07-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Emillionaire/ahj-homeworks-http/issues"
+    "url": "https://github.com/Emillionaire/PY-AHJ-HW07-2/issues"
   },
-  "homepage": "https://github.com/Emillionaire/ahj-homeworks-http#readme",
+  "homepage": "https://github.com/Emillionaire/PY-AHJ-HW07-2#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.6",
     "@babel/core": "^7.22.8",
